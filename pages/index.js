@@ -5,6 +5,7 @@ function Home() {
     return (
     <div>
         <h3>Homepage do GuGu</h3>
+        <div>Mano, cê-Loko!?!</div>
         <Contador />
     </div>
     )
