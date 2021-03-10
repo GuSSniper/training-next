@@ -2,22 +2,9 @@ function Home() {
     return (
     <div>
         <h3>WebPage do GuGu</h3>
-        <br>...</br>
-        <div>clica ae...</div>
-        <br>...</br>
+        <br></br>
+        <div>clica ae.....         <button>BUTAO</button></div>
     </div>
-    )
-}
-
-function click () {
-    alert ('Bum!');
-}
-
-function butao(){
-    return (
-        <div>
-            <button onclick={click}>BUTÃO</button>
-        </div>
     )
 }
 
