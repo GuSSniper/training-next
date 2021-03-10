@@ -1,7 +1,8 @@
 function Home() {
     return (
     <div>
-        <h3>WebPage do GuGu</h3>
+        <h1>WebPage do GuGu</h1>
+        <h3>com butão</h3>
         <br></br>
         <div>clica ae.....         <button>BUTAO</button></div>
     </div>
