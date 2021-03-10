@@ -1,27 +1,22 @@
-import {useState} from 'react';
-
-
 function Home() {
     return (
     <div>
-        <h3>Homepage do GuGu</h3>
-        <div>Mano, cê-Loko!?!</div>
-        <Contador />
+        <h3>WebPage do GuGu</h3>
+        <br>...</br>
+        <div>clica ae...</div>
+        <br>...</br>
     </div>
     )
 }
 
-function Contador(){
-    const[contador, setContador] = useState(1);
-    
-    function adicionarContador(){
-        setContador (contador + 1);
-    }
+function click () {
+    alert ('Bum!');
+}
 
+function butao(){
     return (
         <div>
-            <div>{contador}</div>
-            <button onclick={adicionarContador}>ADD</button>
+            <button onclick={click}>BUTÃO</button>
         </div>
     )
 }
