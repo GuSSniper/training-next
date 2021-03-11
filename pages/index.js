@@ -6,7 +6,6 @@ git add -A
   git push origin main
 
 */
-
 function Home() {
     return (
         <div>
@@ -14,11 +13,16 @@ function Home() {
         <h2> Git | Vercel | Next </h2>
         <br></br>
         <br></br>
-        <h3>...óia um butão...</h3>
-        <button>BUTAO</button>
+        <button>Click here to HIRE this genius!</button>
+        <br></br><br></br><br></br>
+        <img src="https://media-exp1.licdn.com/dms/image/C4E35AQF-PfqQzO39hg/profile-framedphoto-shrink_200_200/0/1614031943072?e=1615514400&v=beta&t=UzSXOkDLsfPofX-_gGcw_qMPi3TLbtVgd9f--yRfNl8"></img>
+        <h4>...óia...kkkk...</h4>
+        <br></br><br></br>
+
     </div>
 
     )
 }
+
 
 export default Home
