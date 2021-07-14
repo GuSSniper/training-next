@@ -1,10 +1,8 @@
 /* comentarios:
-
 https://training-next-gussniper.vercel.app/
 git add -A
  git commit -m 'gugu homepage'
   git push origin main
-
 */
 function Home() {
     return (
