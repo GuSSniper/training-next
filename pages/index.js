@@ -11,18 +11,13 @@ function Home() {
         <div>
         <h1> GuGu Deployment Training </h1>
         <h2> Git | Vercel | Next </h2>
-        <br></br>
-        <br></br>
-        <button>Click here to HIRE this genius!</button>
         <br></br><br></br><br></br>
-        <img src="https://media-exp1.licdn.com/dms/image/C4E35AQF-PfqQzO39hg/profile-framedphoto-shrink_200_200/0/1614031943072?e=1615514400&v=beta&t=UzSXOkDLsfPofX-_gGcw_qMPi3TLbtVgd9f--yRfNl8"></img>
-        <h4>...ói, q lindeza!...kkkk...</h4>
-        <br></br><br></br>
+        <h4>The SUMMER is coming!</h4>
+        <br></br>
+        <img src="https://ibb.co/7SMj0Gj"></img>
 
     </div>
 
     )
 }
-
-
 export default Home
