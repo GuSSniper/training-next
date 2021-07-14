@@ -11,10 +11,10 @@ function Home() {
         <div>
         <h1> GuGu Deployment Training </h1>
         <h2> Git | Vercel | Next </h2>
-        <br></br><br></br><br></br>
+        <br><br>
         <h4>The SUMMER is coming!</h4>
-        <br></br>
-        <img src="https://ibb.co/7SMj0Gj"></img>
+        <br><br>
+        <img src="https://i.ibb.co/b6wQGrQ/ADA-BR-loading.jpg"></img>
 
     </div>
 
