@@ -12,7 +12,7 @@ function Home() {
         <br><br>
         <h4>The SUMMER is coming!</h4>
         <br><br>
-        <img src="https://ibb.co/7SMj0Gj"></img>
+        <img src="https://i.ibb.co/b6wQGrQ/ADA-BR-loading.jpg"></img>
 
     </div>
 
