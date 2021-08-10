@@ -6,16 +6,15 @@ git add -A
 */
 function Home() {
     return (
-        <div>
+        <><div>
         <h1> GuGu Deployment Training </h1>
         <h2> Git | Vercel | Next </h2>
-        <br><br>
+        <br></br>
         <h4>The SUMMER is coming!</h4>
-        <br><br>
-        <img src="https://i.ibb.co/b6wQGrQ/ADA-BR-loading.jpg"></img>
-
-    </div>
-
+        <br></br>
+      </div><div>
+          <img src="https://i.ibb.co/xSPhfcs/G-laserized-bg-ada.jpg"></img>
+        </div></>
     )
 }
 export default Home
